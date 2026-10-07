@@ -50,11 +50,11 @@ Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer)	sstitle	106	lossless
 Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System)	sstitle	106	lossless
 Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)	sstitle	106	lossless
 Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer)	sstitle	106	lossless
-Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)	sstitle	106	lossless
-Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan)	sstitle	106	lossless
+Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)	lr-titles	106	lossless
+Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan)	lr-titles	106	lossless
 Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan)	sstitle	106	lossless
-Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3)	sstitle	106	lossless
-Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4)	sstitle	106	lossless
+Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3)	lr-titles	106	lossless
+Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4)	lr-titles	106	lossless
 Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan)	sstitle	106	lossless
 Family Composer (Japan) (Disk Writer)	sstitle	106	lossless
 Famimaga Disk Vol. 1 - Hong Kong (Japan)	sstitle	106	lossless
@@ -86,7 +86,7 @@ Hao-kun no Fushigi na Tabi (Japan)	sstitle	106	lossless
 Hikari Shinwa - Palthena no Kagami (Japan)	sstitle	106	lossless
 Hikaru Genji - Roller Panic (Japan)	sstitle	106	lossless
 I Am a Teacher - Super Mario no Sweater (Japan)	sstitle	106	lossless
-I Am a Teacher - Teami no Kiso (Japan)	sstitle	106	lossless
+I Am a Teacher - Teami no Kiso (Japan)	lr-titles	106	lossless
 Ice Climber (Japan) (En) (Disk Writer)	sstitle	106	lossless
 Ice Hockey (Japan)	sstitle	106	lossless
 Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer)	sstitle	106	lossless
